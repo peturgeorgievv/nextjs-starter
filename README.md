@@ -4,6 +4,7 @@ Growing NextJS starter. The master branch is always the latest starter. Each bra
 
 - Creating our Starter. NextJS Starter with App Router - TailwindCSS + ShadcnUI (partially) - https://peturgeorgievv.com/blog/nextjs-starter-with-app-router-tailwindcss-shadcnui-partially [init]
 - Complex Form with Zod, NextJS and TypeScript - Discriminated Union - https://peturgeorgievv.com/blog/complex-form-with-zod-nextjs-and-typescript-discriminated-union [zod-discriminated-union]
+- Add Internationalization to NextJS app router (next-intl) - https://peturgeorgievv.com/blog/how-to-add-internationalization-to-nextjs-app-router-next-intl [next-intl-init]
 
 ## Getting Started
 
